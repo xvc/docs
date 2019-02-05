@@ -44,7 +44,6 @@ The node incentives system donates a portion of the miners coinbase reward to pe
 
     * Quad Core (Physical CPU)
     * 2 gigabytes of free memory (Physical RAM)
-    * 1 gigabytes of free disk space (Physical SSD)
+    * 2 gigabytes of free disk space (Physical SSD)
 
-
-You can read more about it in the [whitepaper](https://github.com/openvcash/papers/blob/master/incentive.pdf).
+You can read more about it in the whitepapers [Incentive](https://github.com/openvcash/papers/blob/master/incentive.pdf), [PoW reward v2](https://github.com/openvcash/papers/blob/master/rewardv2.pdf) and [PoW reward v3](https://github.com/openvcash/papers/blob/master/rewardv3.pdf).

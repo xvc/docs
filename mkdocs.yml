@@ -64,5 +64,7 @@ pages:
      - 'WalletPassphrase': RPC/commands/walletpassphrase.md
      - 'WalletPassphraseChange': RPC/commands/walletpassphrasechange.md
  - Technologies:
+    - 'Scaling the blockchain': technologies/scaling-blockchain.md
     - 'Node Incentives': technologies/node-incentives.md
     - 'ZeroTime': technologies/zerotime.md
+    - 'ChainBlender': technologies/chainblender.md
