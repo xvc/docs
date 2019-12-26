@@ -1,7 +1,8 @@
-### Example config.dat ###
+# config.dat
 
+## Example config.dat
 
-```
+```text
 {
     "version": "1",
     "network": {
@@ -38,15 +39,16 @@
 }
 ```
 
-### Key Definitions ###
+## Key Definitions
 
-    * version - The file version.
-    * network.tcp.port - The network TCP port to use.
-    * network.tcp.inbound.maximum - The maximum number of inbound TCP connections.
-    * network.udp.enable - Enables UDP.
-    * wallet.transaction.history.maximum - The maximum transaction history (in seconds) to display.
-    * wallet.keypool.size - The keypool size.
-    * wallet.rescan - Performs a wallet rescan if true.
-    * zerotime.depth - The number blocks a confirmed ZeroTime transaction should reflect.
-    * zerotime.answers.minimum - The minimum number of answers to accept.
-    * mining.proof-of-stake - Enables Proof-of-Stake minting.
+* version - The file version.
+* network.tcp.port - The network TCP port to use.
+* network.tcp.inbound.maximum - The maximum number of inbound TCP connections.
+* network.udp.enable - Enables UDP.
+* wallet.transaction.history.maximum - The maximum transaction history \(in seconds\) to display.
+* wallet.keypool.size - The keypool size.
+* wallet.rescan - Performs a wallet rescan if true.
+* zerotime.depth - The number blocks a confirmed ZeroTime transaction should reflect.
+* zerotime.answers.minimum - The minimum number of answers to accept.
+* mining.proof-of-stake - Enables Proof-of-Stake minting.
+
