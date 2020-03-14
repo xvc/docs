@@ -1,7 +1,7 @@
 # block decode
 
 ```
-curl -sS --data-binary '{"jsonrpc":"1.0", "id":"1", "method":"getblock", "params":["00000000003f8286bfb90e9c2114577cc2982b537e4f3fdaf9e28f99d2d5cab6",false]}' -H 'content-type: text/plain;' http://127.0.0.1:9195/06000000	// version
+curl -sS --data-binary '{"jsonrpc":"1.0", "id":"1", "method":"getblock", "params":["00000000003f8286bfb90e9c2114577cc2982b537e4f3fdaf9e28f99d2d5cab6",false]}' -H 'content-type: text/plain;' http://127.0.0.1:9195
 ```
 
 RawTransaction is as follow:
