@@ -58,6 +58,7 @@
     * [Proof-of-Work](block/generation/proof-of-work.md)
     * [Proof-of-Stake](block/generation/proof-of-stake.md)
   * [Pruning](block/pruning.md)
+  * [block decode](block/block-decode.md)
 * [technologies](technologies/README.md)
   * [node-incentives](technologies/node-incentives.md)
   * [ChainBlender](technologies/chainblender.md)
