@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Vcash](README.md)
+* [Welcome to the Vcash Community Docs](index.md)
 * [protocol](protocol/README.md)
   * [messages](protocol/messages/README.md)
     * [ztlock](protocol/messages/ztlock.md)
@@ -64,7 +65,6 @@
   * [ChainBlender](technologies/chainblender.md)
   * [Scaling the blockchain](technologies/scaling-blockchain.md)
   * [ZeroTime](technologies/zerotime.md)
-* [Welcome to the Vcash Community Docs](index.md)
 * [configuration](configuration/README.md)
   * [files](configuration/files/README.md)
     * [config.dat](configuration/files/config.dat.md)
